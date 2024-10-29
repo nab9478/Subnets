@@ -38,28 +38,28 @@ p6First = '32.50.36.161'
 p6Last =  '32.50.36.190'
 
 #problem 7
-p7Network = ''
-p7Broadcast = ''
-p7First = ''
-p7Last = ''
+p7Network = '199.35.253.128'
+p7Broadcast = '199.35.253.255'
+p7First = '199.35.253.129'
+p7Last = '199.35.253.254'
 
 #problem 8
-p8Network = ''
-p8Broadcast = ''
-p8First = ''
-p8Last = ''
+p8Network = '110.20.215.0'
+p8Broadcast = '110.20.215.15'
+p8First = '110.20.215.1'
+p8Last = '110.20.215.14'
 
 #problem 9
-p9Network = ''
-p9Broadcast = ''
-p9First = ''
-p9Last = ''
+p9Network = '21.5.177.0'
+p9Broadcast = '21.5.177.63'
+p9First = '21.5.177.1'
+p9Last = '21.5.177.62'
 
 #problem 10
-p10Network = ''
-p10Broadcast = ''
-p10First = ''
-p10Last = ''
+p10Network = '188.246.139.88'
+p10Broadcast = '188.246.139.95'
+p10First = '188.246.139.89'
+p10Last = '188.246.139.94'
 
 
 """
