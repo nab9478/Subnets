@@ -3,9 +3,9 @@ uniquecode = 27867
 
 #problem 1
 p1Network = '221.124.227.208'
-p1Broadcast = '221.124.227.219'
+p1Broadcast = '221.124.227.223'
 p1First = '221.124.227.209'
-p1Last =  '221.124.227.128'
+p1Last =  '221.124.227.222'
 
 #problem 2
 p2Network = ''
