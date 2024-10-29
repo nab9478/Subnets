@@ -8,10 +8,10 @@ p1First = '221.124.227.209'
 p1Last =  '221.124.227.222'
 
 #problem 2
-p2Network = ''
-p2Broadcast = ''
-p2First = ''
-p2Last = ''
+p2Network = '132.109.189.0'
+p2Broadcast = '132.109.189.127'
+p2First = '132.109.189.1'
+p2Last = '132.109.189.126'
 
 #problem 3
 p3Network = ''
