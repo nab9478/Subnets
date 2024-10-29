@@ -32,10 +32,10 @@ p5First = '121.65.74.1'
 p5Last = '121.65.74.254'
 
 #problem 6
-p6Network = ''
-p6Broadcast = ''
-p6First = ''
-p6Last =  ''
+p6Network = '32.50.36.160'
+p6Broadcast = '32.50.36.191'
+p6First = '32.50.36.161'
+p6Last =  '32.50.36.190'
 
 #problem 7
 p7Network = ''
