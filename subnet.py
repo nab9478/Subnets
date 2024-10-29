@@ -26,10 +26,10 @@ p4First = '210.79.112.65'
 p4Last = '210.79.112.126'
 
 #problem 5
-p5Network = ''
-p5Broadcast = ''
-p5First = ''
-p5Last = ''
+p5Network = '121.65.74.0'
+p5Broadcast = '121.65.74.255'
+p5First = '121.65.74.1'
+p5Last = '121.65.74.254'
 
 #problem 6
 p6Network = ''
